@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("../images/GutBacteria.jpg");
+  background-size: cover;
+}
+
+body {
+  color: black;
+  background-image: url("../images/background.jpg");
+}
