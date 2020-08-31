@@ -1,6 +1,6 @@
 # Belly Button's Bio Diversity
 
-### In this repo I demonstrate techniques using HTML, CSS, Javascript, and Plotly (a javascript plotting library), working with data set on belly button and the bacteria found on individuals.  The end result is a webpage published for user to pick and choose samples of data to see multiple data dimensions of the data.  The data source was presented in an anonymized format with metadata of the user, and detailed data of his or her bacteria.  
+### In this repo I demonstrate techniques using HTML, CSS, Javascript, and Plotly (a javascript plotting library), working with data set on belly button and the bacteria found on individuals.  The end result is a webpage[published via github](https://tienl.github.io/BB_Bio_Diversity/index.html) published for user to pick and choose samples of data to see multiple data dimensions of the data.  The data source was presented in an anonymized format with metadata of the user, and detailed data of his or her bacteria.  
 
 
 
